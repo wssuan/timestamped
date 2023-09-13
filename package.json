@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "exif-reader": "^1.2.0",
+    "sharp": "^0.32.5"
+  }
+}
